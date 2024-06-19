@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Iniciando carreira<br>📚 Cursando DEVStart - SENAI<br>🎯 Em busca de crescimento<br>🎲 Jogador bem mediano de CS2</p>
+<p align="left">✨ Iniciando carreira<br>📚 Cursando DEVStart - SENAI<br>🎯 Em busca de experiência<br>🎲 Jogador bem mediano de CS2</p>
 
 ###
 
