@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Eduardo Hostins, tenho 21 anos, estou estudando programação e buscando espaço no mercado de trabalho.</p>
+<p align="left">Meu nome é Eduardo Hostins, tenho 22 anos, estou estudando tecnologia e buscando espaço no mercado de trabalho.</p>
 
 ###
 
