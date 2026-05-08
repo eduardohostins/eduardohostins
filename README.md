@@ -1,4 +1,4 @@
-# Olá, eu sou o Eduardo Hostins 👋
+# Bem vindo(a) ao meu GitHub! 👋
 
 🎓 Estudante de TI focado em suporte técnico, bancos de dados e integrações.
 
